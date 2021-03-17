@@ -1,3 +1,5 @@
 # BernhardTest
 
-Fast alles gel�scht
+Fast alles gelöscht
+
+Neu hinzugefügt
